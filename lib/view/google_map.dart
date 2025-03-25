@@ -18,8 +18,8 @@ class _GoogleMapScreenState extends State<GoogleMapScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          backgroundColor: Colors.amberAccent,
-          title: Text('Adnan shah'),
+          backgroundColor: Colors.greenAccent,
+          title: Text('Google Map'),
           centerTitle: true,
         ),
         body: GoogleMap(initialCameraPosition: _initialPosition));
