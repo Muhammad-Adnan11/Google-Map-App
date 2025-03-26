@@ -1,7 +1,10 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:google_map/view/google_map.dart';
 
-void main() {
+void main() async {
+  // WidgetsFlutterBinding.ensureInitialized();
+  // await dotenv.load(fileName: ".env"); // .env file ko load kar raha hai
   runApp(const MyApp());
 }
 
