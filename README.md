@@ -1,16 +1,33 @@
-# google_map
+# 🌱 Plant Mart - Flutter E-Commerce Application  
 
-A new Flutter project.
+Plant Mart is a **cross-platform e-commerce mobile application** built with **Flutter**.  
+It provides a complete online shopping experience for plants, enabling users to browse, search, and purchase a wide range of plants with a smooth and intuitive interface.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Key Features  
+- 👤 **User Authentication** – Secure registration and login with Firebase  
+- 🪴 **Product Catalog** – Browse categorized plants with detailed descriptions and images  
+- 🔍 **Search & Filter** – Quickly find products by name or category  
+- 🛒 **Shopping Cart** – Add, update, and remove items from cart  
+- ❤️ **Wishlist** – Save favorite plants for later  
+- 💳 **Checkout Flow** – Prepare for secure payment integration  
+- 📷 **Image Storage** – Product images hosted on Firebase Storage  
+- 🎨 **Responsive UI/UX** – Modern, minimal, and mobile-friendly design  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack  
+- 🐦 **Flutter (Dart)** – Cross-platform UI framework  
+- 🔥 **Firebase Authentication** – Secure user login & registration  
+- ☁️ **Cloud Firestore** – NoSQL database for product and user data  
+- 🖼️ **Firebase Storage** – Image storage for product catalog  
+- 🧩 **Provider / Riverpod** – State management  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 Getting Started  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-username/plant-mart.git
+
