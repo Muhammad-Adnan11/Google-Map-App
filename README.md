@@ -1,33 +1,18 @@
-# 🌱 Plant Mart - Flutter E-Commerce Application  
+🌍 Google Maps Integration in Flutter
 
-Plant Mart is a **cross-platform e-commerce mobile application** built with **Flutter**.  
-It provides a complete online shopping experience for plants, enabling users to browse, search, and purchase a wide range of plants with a smooth and intuitive interface.  
+A Flutter application showcasing seamless integration of Google Maps SDK for both Android and iOS. This project is designed to help developers quickly set up and implement location-based features such as real-time location tracking, interactive maps, and custom markers.
 
----
+✨ Features
 
-## ✨ Key Features  
-- 👤 **User Authentication** – Secure registration and login with Firebase  
-- 🪴 **Product Catalog** – Browse categorized plants with detailed descriptions and images  
-- 🔍 **Search & Filter** – Quickly find products by name or category  
-- 🛒 **Shopping Cart** – Add, update, and remove items from cart  
-- ❤️ **Wishlist** – Save favorite plants for later  
-- 💳 **Checkout Flow** – Prepare for secure payment integration  
-- 📷 **Image Storage** – Product images hosted on Firebase Storage  
-- 🎨 **Responsive UI/UX** – Modern, minimal, and mobile-friendly design  
+📍 Google Maps Integration – Fully functional map view in Flutter
 
----
+🎯 Current Location Tracking – Access and display the device’s live location
 
-## 🛠️ Tech Stack  
-- 🐦 **Flutter (Dart)** – Cross-platform UI framework  
-- 🔥 **Firebase Authentication** – Secure user login & registration  
-- ☁️ **Cloud Firestore** – NoSQL database for product and user data  
-- 🖼️ **Firebase Storage** – Image storage for product catalog  
-- 🧩 **Provider / Riverpod** – State management  
+📌 Custom Markers – Add, update, and move markers on the map
 
----
+🗺️ Map Styles & Types – Switch between Normal, Satellite, Terrain, and Hybrid
 
-## 🚀 Getting Started  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/plant-mart.git
+🔎 Smooth Gestures – Pan, zoom, tilt, and rotate with native controls
+
+🚀 Cross-Platform – Works on both Android & iOS with a single codebase
 
